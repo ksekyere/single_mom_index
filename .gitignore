@@ -1,0 +1,17 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+ 
+# Data: recreated by R/01_download.R and R/02_clean.R
+data/raw/
+data/processed/
+ 
+# macOS
+.DS_Store
+ 
+# QGIS lock and backup files
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
