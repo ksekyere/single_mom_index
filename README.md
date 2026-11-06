@@ -173,7 +173,7 @@ Each download is saved to `data/raw/` and skipped on later runs. Delete a file t
 
 ## About
 
-Created by **Your Name**, an information designer and former quantitative social researcher. See the project write-up at [yourname.com](https://yourname.com).
+Created by **Kofi Forkuo-Sekyere**, an information designer and former quantitative social researcher. See the project write-up at [ksekyere.github.io](https://ksekyere.github.io/#work).
 
 Questions or corrections are welcome; please open an issue.
 
