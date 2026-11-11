@@ -1,0 +1,32 @@
+Country Conditions Dashboard
+Copyright 2026 Kofi Forkuo-Sekyere
+
+This product was developed with the assistance of Claude, an AI model made by Anthropic.
+
+The data displayed is not covered by this license. World Bank data is published under the
+Creative Commons Attribution 4.0 license. The World Justice Project data file in
+data/sources/ is subject to the World Justice Project's own terms of use.
+
+"Born Chained Die Free" is a trademark of Kofi Forkuo-Sekyere. The Apache License 2.0
+does not grant permission to use it.
+
+DATA SOURCES
+The data used and produced by this project is not covered by this license.
+
+- Childcare prices: U.S. Department of Labor, Women's Bureau, National Database of
+  Childcare Prices.
+- Single-mother families, poverty and income: U.S. Census Bureau, American Community
+  Survey 5-year estimates (tables B11003, B17010 and B19126), with county boundaries
+  from the Census Bureau's cartographic boundary files.
+- State minimum wages: U.S. Department of Labor, accessed through FRED®, Federal
+  Reserve Bank of St. Louis.
+
+Works of the U.S. federal government are generally in the public domain in the
+United States.
+
+This product uses the Census Bureau Data API but is not endorsed or certified by the
+Census Bureau.
+
+This product uses the FRED® API but is not endorsed or certified by the Federal Reserve
+Bank of St. Louis. By running this code with the FRED® API, you agree to the FRED® API
+Terms of Use: https://fred.stlouisfed.org/docs/api/terms_of_use.html
